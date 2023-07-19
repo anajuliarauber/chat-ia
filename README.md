@@ -17,6 +17,8 @@ Chatbot application based in OpenAI's artificial intelligence. This project uses
 - React JS
 - Next JS
 - Next JS - API Routes
+- AI SDK
+- Open AI
 - Shadcn UI
 - Tailwind CSS
 
